@@ -1,0 +1,7 @@
+New log file opened at Sat May 28 23:28:27 IST 2016 by 11508@gauravsi-WX-1
+Taking next connection to: 61119
+New client attempting to connect on port: 61120-61119
+  Address = /192.168.56.1:61119
+This client on port 61120 has uuid 7194db43-387c-4321-b140-bd81e6abd16d configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-7194db43-387c-4321-b140-bd81e6abd16d
+Taking next connection to: 61119
